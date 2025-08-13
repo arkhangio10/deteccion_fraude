@@ -8,6 +8,7 @@ Dashboard en Tiempo Real: Monitoreo de métricas y performance
 Sistema de Alertas: Detección automática de degradación del modelo
 Logging Completo: Registro de todas las predicciones y errores
 📁 Estructura del Proyecto FINAL
+
 credit-risk-detection/
 ├── 📊 data/                    # Datos de entrenamiento y prueba
 │   ├── credir_risk_reto.xlsx   # Dataset original
@@ -31,6 +32,8 @@ credit-risk-detection/
     ├── monitoring.py          # Sistema de monitoreo y métricas
     └── templates/
         └── dashboard.html      # Dashboard web de métricas
+
+        
 🚀 ARCHIVOS PRINCIPALES
 🔥 Archivos Core (NO TOCAR):
 src/api_with_monitoring.py - API principal con dashboard
